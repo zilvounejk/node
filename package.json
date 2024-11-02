@@ -1,0 +1,9 @@
+{
+  "name": "ai-zahradnik",
+  "version": "1.0.0",
+  "description": "Node.js server with Google Generative AI integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
